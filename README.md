@@ -29,7 +29,6 @@ https://github.com/gorilla-company/saitatools-sockets
 
 ### Repositorios <br />
 
-https://github.com/limbo-teams/saitama-app-replica
 
 ------------
 
@@ -43,7 +42,16 @@ https://github.com/limbo-teams/saitama-app-replica
 
 ### Repositorios <br />
 
-https://github.com/gorilla-company/saitatools-back-end
+https://github.com/gorilla-company/lambda-get-erc20-token-info
+https://github.com/gorilla-company/lambda-check-token-balance-by-wallet-address
+https://github.com/gorilla-company/lambda-wallet-operations
+https://github.com/gorilla-company/lambda-users-wallet-management
+https://github.com/gorilla-company/lambda-check-nodes-eth
+https://github.com/gorilla-company/lambda-balancer-node-eth
+https://github.com/gorilla-company/lambda-users-management
+https://github.com/gorilla-company/lambda-coin-market-cap-api
+https://github.com/gorilla-company/lambda-swap-data-to-get
+https://github.com/gorilla-company/lambda-swap-operations
 
 ------------
 
@@ -64,7 +72,3 @@ https://github.com/gorilla-company/saitatools-back-end
 
 https://github.com/gorilla-company/tarp-front-end<br />
 https://github.com/gorilla-company/tarp-back-end<br />
-https://github.com/gorilla-company/saitatools-back-end<br />
-https://github.com/gorilla-company/saitatools-front-end<br />
-https://github.com/gorilla-company/saitatools-cronjobs<br />
-https://github.com/gorilla-company/saitatools-sockets
