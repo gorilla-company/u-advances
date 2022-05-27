@@ -9,7 +9,7 @@
 ㅤ🔎 ㅤRevisión de datos de swap, ya conectados correctamente <br />
 ㅤ🚀ㅤ Optimizaciones con reddis <br />
 ㅤ🚀 ㅤOptimizaciones en los detalles de pool y token <br />
- 🚀   Optimizaciones en carga de grafica 
+ㅤ🚀 ㅤOptimizaciones en carga de grafica 
  
 ### Repositorios <br />
 https://github.com/gorilla-company/saitatools-front-end <br />
