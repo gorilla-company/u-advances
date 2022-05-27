@@ -1,4 +1,4 @@
-## SaitaMonitor:
+## U-Tools:
 
 ㅤ📈 ㅤAgregada gráfica mini de 7 días a los tokens  <br />
 ㅤ🔧 ㅤArreglados varios cálculos a los que le faltaban ajustes como volumen de 7 días, total liquidity en general y también por cada token|pool <br />
@@ -18,7 +18,7 @@ https://github.com/gorilla-company/saitatools-sockets
 
 ------------
 
-## SaitaMask APP:
+## U-APP:
 
 ㅤ🔧 ㅤSolución de varios bugs reportados en crashlitycs<br />
 ㅤ🔧ㅤ Solución de varios bugs reportados en la comunidad<br />
@@ -33,7 +33,7 @@ https://github.com/limbo-teams/saitama-app-replica
 
 ------------
 
- ## SaitaMask Back:
+ ## U-Mask Back:
 
 ㅤ💶ㅤ Incremento del límite para hacer swap <br />
 ㅤ💻ㅤ Creación de endpoints para agregar nuevos mercados (solo admin) <br />
