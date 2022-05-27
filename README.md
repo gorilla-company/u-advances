@@ -40,7 +40,7 @@ https://github.com/gorilla-company/saitatools-sockets
 ㅤ⚙️ㅤ  Configuración del nuevo nodo y sus réplicas <br />
 ㅤ🌐ㅤ Creación del nodo balancer <br />
 ㅤ💻ㅤ Migración a nuevo servidor al 70% <br />
- 🚀   Optimizacion de los fees al 20%
+ㅤ🚀 ㅤOptimizacion de los fees al 20%
 
 ### Repositorios <br />
 
